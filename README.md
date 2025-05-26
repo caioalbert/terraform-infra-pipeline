@@ -1,3 +1,0 @@
-# terraform-infra-pipeline
-
-teste
